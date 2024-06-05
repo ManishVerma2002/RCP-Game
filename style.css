@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button#start-game-btn {
+    margin-top: 7rem;
+    padding: 1rem;
+    background-color: rebeccapurple;
+    color: white;
+    border-style: none;
+}
